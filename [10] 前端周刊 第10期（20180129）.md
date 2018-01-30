@@ -15,6 +15,7 @@
 
 
 ## 值得关注
+- [2018.makemepulse.com](http://2018.makemepulse.com/)：Makemepulse 团队做的小游戏 <img valign="top" width="auto" height="20" src="./assets/demo.svg" />
 - [project-guidelines](https://github.com/wearehive/project-guidelines?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=video)：一套项目规范 <img valign="top" width="auto" height="20" src="./assets/opinion.svg" />
 
 ## 课外读物
