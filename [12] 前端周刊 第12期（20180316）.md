@@ -11,12 +11,12 @@
 ## 技术趋势
 - ["display: contents" is coming](https://blogs.igalia.com/mrego/2018/01/11/display-contents-is-coming/?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=video)：一个「我是打酱油的」属性 <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
 - [Dan Abramov 讲解React 16.3新特性，从CPU和IO两方面提升用户体验（强力推荐）](https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/video.svg" /> 
-- [What’s new in React 16.3(.0-alpha)](https://medium.com/@baphemot/whats-new-in-react-16-3-d2c9b7b6193b?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=opinion) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
+- [What’s new in React 16.3(.0-alpha)](https://medium.com/@baphemot/whats-new-in-react-16-3-d2c9b7b6193b?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=code) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
 
 ## 值得关注
-- [腾讯IVWEB团队的工程化解决方案feflow](https://github.com/feflow/feflow?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=news)
+- [腾讯IVWEB团队的工程化解决方案feflow](https://github.com/feflow/feflow?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=github) <img valign="top" width="auto" height="20" src="./assets/code.svg" /> <img valign="top" width="auto" height="20" src="./assets/github.svg" />
 
 ## 课外读物
-- [如何写一个通用的README规范](https://juejin.im/post/5aaa06e4f265da237b21cf63?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=video) <img valign="top" width="auto" height="20" src="./assets/opinion.svg" />
+- [如何写一个通用的README规范](https://juejin.im/post/5aaa06e4f265da237b21cf63?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=opinion) <img valign="top" width="auto" height="20" src="./assets/opinion.svg" />
 
 -- EOF --
