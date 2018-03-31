@@ -1,22 +1,27 @@
-# 前端周刊 第12期（20180316）
+# 前端周刊 第13期（20180331）
 
 ## 新鲜事
-- 没啥新鲜的 💩 （[除非这个也算的话](https://i.v2ex.co/508JOU37.png?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial)）
+- [React v16.3.0: New lifecycles and context API](https://reactjs.org/blog/2018/03/29/react-v-16-3.html?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=news)：RT <img valign="top" width="auto" height="20" src="./assets/news.svg" />
+- [V8 release v6.6](https://v8project.blogspot.hk/2018/03/v8-release-66.html?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=news)：新版 V8 引擎将伴随 Chrome 66 一起升级，`Array#reduce` 性能大幅提升 <img valign="top" width="auto" height="20" src="./assets/news.svg" />
+- [Announcing TypeScript 2.8](https://blogs.msdn.microsoft.com/typescript/2018/03/27/announcing-typescript-2-8/?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=news)：RT <img valign="top" width="auto" height="20" src="./assets/news.svg" />
 
 ## 前端提高
-- [【译】10 个技巧，让你更专业地使用 console 进行 JS 调试](https://elevenbeans.github.io/2018/03/10/10-Tips-for-JS-Debugging-with-Console/?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
-- [The JavaScript Learning Landscape in 2018](https://css-tricks.com/javascript-learning-landscape-2018/?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
-- [webpack详解（讲解webpack原理，烧脑的厉害😂）](https://juejin.im/post/5aa3d2056fb9a028c36868aa?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
-
-## 技术趋势
-- ["display: contents" is coming](https://blogs.igalia.com/mrego/2018/01/11/display-contents-is-coming/?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=video)：一个「我是打酱油的」属性 <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
-- [Dan Abramov 讲解React 16.3新特性，从CPU和IO两方面提升用户体验（强力推荐）](https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/video.svg" /> 
-- [What’s new in React 16.3(.0-alpha)](https://medium.com/@baphemot/whats-new-in-react-16-3-d2c9b7b6193b?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=code) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
+- [A list of cool Chrome DevTools Tips and Tricks](https://flaviocopes.com/chrome-devtools-tips/?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tips)：Chrome 开发者工具技巧 <img valign="top" width="auto" height="20" src="./assets/tips.svg" />
+- [What’s new in ES2018?](https://slidr.io/mathiasbynens/what-s-new-in-es2018?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
+- [Unit Testing in JavaScript](https://www.taniarascia.com/unit-testing-in-javascript/?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial)：入门 TDD 开发 <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
 
 ## 值得关注
-- [腾讯IVWEB团队的工程化解决方案feflow](https://github.com/feflow/feflow?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=github) <img valign="top" width="auto" height="20" src="./assets/code.svg" /> <img valign="top" width="auto" height="20" src="./assets/github.svg" />
+- [driver.js](http://kamranahmed.info/driver)：页面引导效果库【[GitHub repo](https://github.com/kamranahmedse/driver.js?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=code)】 <img valign="top" width="auto" height="20" src="./assets/code.svg" /> <img valign="top" width="auto" height="20" src="./assets/github.svg" />
+- [react-testing-library](https://github.com/kentcdodds/react-testing-library?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=github)：React DOM 测试工具 <img valign="top" width="auto" height="20" src="./assets/github.svg" />
+- [Nerv](https://github.com/NervJS/nerv?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=github)：又一个类 React 组件框架 <img valign="top" width="auto" height="20" src="./assets/code.svg" /> <img valign="top" width="auto" height="20" src="./assets/github.svg" />
+- [Pure CSS Saturn Hula Hooping](https://codepen.io/jcoulterdesign/pen/BrdPaw?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=code)：CSS 做的土星呼啦圈 <img valign="top" width="auto" height="20" src="./assets/demo.svg" />
+- [luxe](https://luxeengine.com/?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=github)：A lovingly hand crafted cross platform game engine
 
 ## 课外读物
-- [如何写一个通用的README规范](https://juejin.im/post/5aaa06e4f265da237b21cf63?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=opinion) <img valign="top" width="auto" height="20" src="./assets/opinion.svg" />
+- [TensorFlow.js](https://js.tensorflow.org/?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=demo)：RT <img valign="top" width="auto" height="20" src="./assets/github.svg" />
+- [Mosaic](https://codepen.io/Mamboleoo/pen/vRYxQy?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=github) <img valign="top" width="auto" height="20" src="./assets/demo.svg" />
+- [Spatial Hash Canvas Particles](https://codepen.io/jackrugile/full/JLOXWZ/?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=demo) <img valign="top" width="auto" height="20" src="./assets/demo.svg" />
+- [Path Flow aka Mesh Path Deformation Modifier](https://zz85.github.io/threejs-path-flow/flow.html?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=demo)：Three.js 循环路径【[GitHub repo](https://github.com/zz85/threejs-path-flow?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=demo)】 <img valign="top" width="auto" height="20" src="./assets/demo.svg" /> <img valign="top" width="auto" height="20" src="./assets/github.svg" />
+- [kin and eye rendering in WebGL](https://www.derschmale.com/lab/doodles/blueeyes/build/?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=demo) <img valign="top" width="auto" height="20" src="./assets/demo.svg" /> <img valign="top" width="auto" height="20" src="./assets/threejs.svg" />
 
 -- EOF --
