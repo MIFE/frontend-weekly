@@ -1,30 +1,22 @@
-# 前端周刊 第14期（20180427）
+# 前端周刊 第15期（20180511）
 
 ## 新鲜事
-- [Oracle终于要向JavaScript动手了！](http://mp.weixin.qq.com/s/Q5bK8qHgLRzTsrA3NdC9wQ) <img valign="text-bottom" width="auto" height="20" src="./assets/news.svg" />
+- JavaScript新基本类型——BigInt，[支持Chrome 67+](https://developers.google.com/web/updates/2018/05/bigint?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=news)，用于大数运算，[目前V8引擎也加入了](https://v8project.blogspot.jp/2018/05/bigint.html?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2018-05-08&utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=news) <img valign="text-bottom" width="auto" height="20" src="./assets/news.svg" />
 
 ## 前端提高
-- [画一条0.5px的边](http://mp.weixin.qq.com/s/fcqOvzPE0swwsJL1Po4twA) <img valign="text-bottom" width="auto" height="20" src="./assets/tutorial.svg" />
-- [走进Vue-cli源码，自己动手搭建前端脚手架工具](https://segmentfault.com/a/1190000013975247?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=news) <img valign="text-bottom" width="auto" height="20" src="./assets/tutorial.svg" />
-- [被遗忘的CSS](http://mp.weixin.qq.com/s/OwOfsshZIyn8-JVrsCVDxg) <img valign="text-bottom" width="auto" height="20" src="./assets/code.svg" />
-- [前端工程师为什么要学习编译原理？](https://zhuanlan.zhihu.com/p/31096468?utm_source=wechat_session&amp;utm_medium=social&utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="text-bottom" width="auto" height="20" src="./assets/tutorial.svg" />
-- [CSS Modules 入门及 React 中实践](http://www.alloyteam.com/2017/03/getting-started-with-css-modules-and-react-in-practice/#prettyPhoto) <img valign="text-bottom" width="auto" height="20" src="./assets/tutorial.svg" />
-- [1 HTML Element + 5 CSS Properties = Magic!](https://css-tricks.com/1-html-element-5-css-properties-magic/?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial)：使用 `mask` 属性实现的神奇效果 <img valign="text-bottom" width="auto" height="20" src="./assets/tutorial.svg" />
-- [Keep Pixelated Images Pixelated as They Scale](https://css-tricks.com/keep-pixelated-images-pixelated-as-they-scale/?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=code)：关于 `image-rending` 属性的使用 【[image-rendering](https://css-tricks.com/almanac/properties/i/image-rendering/?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=code)】 <img valign="text-bottom" width="auto" height="20" src="./assets/tutorial.svg" />
-- [Lazy Loading Images and Video](https://developers.google.com/web/fundamentals/performance/lazy-loading-guidance/images-and-video/?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial)：利用 `IntersectionObserver` 实现懒加载 <img valign="text-bottom" width="auto" height="20" src="./assets/tutorial.svg" />
-- [老话题了——闭包](https://juejin.im/post/5acfeb7ff265da239867a97f?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="text-bottom" width="auto" height="20" src="./assets/tutorial.svg" />
-- [关于高阶函数](https://juejin.im/post/5ad6b34a6fb9a028cc61bfb3?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="text-bottom" width="auto" height="20" src="./assets/tutorial.svg" />
-- [如何让前端更安全？——XSS 攻击和防御详解](https://juejin.im/entry/58a598dc570c35006b5cd6b4?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="text-bottom" width="auto" height="20" src="./assets/tutorial.svg" />
-- [浅谈XSS—字符编码和浏览器解析原理](https://security.yirendai.com/news/share/26?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="text-bottom" width="auto" height="20" src="./assets/tutorial.svg" />
+- [如何写出更好的 React 代码？](https://juejin.im/post/5ae975d26fb9a07aa92588b7?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="text-bottom" width="auto" height="20" src="./assets/tutorial.svg" />
+- [react-redux讲解](https://juejin.im/post/5af00705f265da0ba60fb844?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="text-bottom" width="auto" height="20" src="./assets/tutorial.svg" />
+- [更优雅的使用 Git](https://juejin.im/post/5af152c1518825673e359539?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="text-bottom" width="auto" height="20" src="./assets/tutorial.svg" />
+- [Understanding Scope in JavaScript](https://scotch.io/tutorials/understanding-scope-in-javascript?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="text-bottom" width="auto" height="20" src="./assets/tutorial.svg" />
 
 ## 值得关注
-- [关于Google发布的JS代码规范，你需要了解什么？](https://github.com/WhiteYin/translation/issues/10?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="text-bottom" width="auto" height="20" src="./assets/news.svg" />
-- [API Documentation Browser](https://devdocs.io/?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial)
-- [中国第四届CSS大会](https://yuque.com/cssconf/4th?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial)：所有分享 PPT 下载 <img valign="text-bottom" width="auto" height="20" src="./assets/opinion.svg" />
-- [Be careful what you copy: Invisibly inserting usernames into text with Zero-Width Characters](https://medium.com/@umpox/be-careful-what-you-copy-invisibly-inserting-usernames-into-text-with-zero-width-characters-18b4e6f17b66?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial)：零宽字符带来的安全隐患 <img valign="text-bottom" width="auto" height="20" src="./assets/opinion.svg" />
+
+- GitHub 开源指南系列之一——如何参与开源？[上篇](https://mp.weixin.qq.com/s/2iyZlUZQ7RTNXGJoE-0Gqg?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) / [下篇](https://mp.weixin.qq.com/s/IF4TRYCVhFEtV_1CDv8_3w?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="text-bottom" width="auto" height="20" src="./assets/tutorial.svg" />
+- [前端工程师的技术进阶点在哪里?](https://mp.weixin.qq.com/s/-CLEXb_-xkm43dqKSJbFCQ?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=opinion) <img valign="text-bottom" width="auto" height="20" src="./assets/opinion.svg" />
+- [互联网公司架构](https://github.com/davideuler/architecture.of.internet-product?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=github) <img valign="text-bottom" width="auto" height="20" src="./assets/github.svg" />
 
 ## 课外读物
-- [工程师如何在工作中提升自己?](https://zhuanlan.zhihu.com/p/35608666?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=news) <img valign="text-bottom" width="auto" height="20" src="./assets/opinion.svg" />
-- [Unfolding Cube Recursion](https://codepen.io/jkantner/full/ZxMWpx/?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=opinion)：解压用的 <img valign="text-bottom" width="auto" height="20" src="./assets/demo.svg" />
+- 这些书在编程圈口碑超好，豆瓣评分9.0以上 [上篇](https://mp.weixin.qq.com/s/aXQNK5UUh27LRbvel0brfg?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=book) / [下篇](https://mp.weixin.qq.com/s/298e4UXPR7PO1jux2gJsQA?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=book) <img valign="text-bottom" width="auto" height="20" src="./assets/book.svg" />
+- [程序员如何应对失眠](https://zhuanlan.zhihu.com/p/36541570?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tips) <img valign="text-bottom" width="auto" height="20" src="./assets/tips.svg" />
 
 -- EOF --
