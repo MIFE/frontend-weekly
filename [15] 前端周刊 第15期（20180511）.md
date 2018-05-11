@@ -4,24 +4,24 @@
 - JavaScript新基本类型——BigInt，[支持Chrome 67+](https://developers.google.com/web/updates/2018/05/bigint?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=news)，用于大数运算，[目前V8引擎也加入了](https://v8project.blogspot.jp/2018/05/bigint.html?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2018-05-08&utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=news) <img valign="top" width="auto" height="20" src="./assets/news.svg" />
 
 ## 前端提高
-- [如何写出更好的 React 代码？](https://juejin.im/post/5ae975d26fb9a07aa92588b7?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
-- [react-redux讲解](https://juejin.im/post/5af00705f265da0ba60fb844?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
-- [更优雅的使用 Git](https://juejin.im/post/5af152c1518825673e359539?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
-- [Understanding Scope in JavaScript](https://scotch.io/tutorials/understanding-scope-in-javascript?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
 - [从零开始手把手教你实现一个Virtual DOM](https://mp.weixin.qq.com/s/viBtv7KSD70qrlAhUMsjDA?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
 - [如何处理 JavaScript 内存泄露](https://mp.weixin.qq.com/s/Cup4F6TMyyw4jB87yrtkRQ?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tips) <img valign="top" width="auto" height="20" src="./assets/tips.svg" />
 - [使用 Web3 和 Vue.js 来创建你的第一个以太坊 dAPP（一）](https://mp.weixin.qq.com/s/pSR_U-hDApfXWoMGKX5ftg?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
 - [纯 HTML / CSS 绘制18世纪的油画风格](https://github.com/cyanharlow/purecss-francine?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=demo) <img valign="top" width="auto" height="20" src="./assets/demo.svg" />
+- [如何写出更好的 React 代码？](https://juejin.im/post/5ae975d26fb9a07aa92588b7?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
+- [react-redux讲解](https://juejin.im/post/5af00705f265da0ba60fb844?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
+- [更优雅的使用 Git](https://juejin.im/post/5af152c1518825673e359539?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
+- [Understanding Scope in JavaScript](https://scotch.io/tutorials/understanding-scope-in-javascript?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
+- [《React in patterns》中文版来了](http://sangka-z.com/react-in-patterns-cn/chapter-2/) <img valign="top" width="auto" height="20" src="./assets/book.svg" />
 
 ## 值得关注
 
-- GitHub 开源指南系列之一——如何参与开源？[上篇](https://mp.weixin.qq.com/s/2iyZlUZQ7RTNXGJoE-0Gqg?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) / [下篇](https://mp.weixin.qq.com/s/IF4TRYCVhFEtV_1CDv8_3w?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
-- [前端工程师的技术进阶点在哪里?](https://mp.weixin.qq.com/s/-CLEXb_-xkm43dqKSJbFCQ?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=opinion) <img valign="top" width="auto" height="20" src="./assets/opinion.svg" />
-- [互联网公司架构](https://github.com/davideuler/architecture.of.internet-product?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=github) <img valign="top" width="auto" height="20" src="./assets/github.svg" />
+- GitHub 开源指南系列之一——如何参与开源？[上篇](https://mp.weixin.qq.com/s/2iyZlUZQ7RTNXGJoE-0Gqg?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=book) / [下篇](https://mp.weixin.qq.com/s/IF4TRYCVhFEtV_1CDv8_3w?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=book) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
+- [前端工程师的技术进阶点在哪里?](https://mp.weixin.qq.com/s/-CLEXb_-xkm43dqKSJbFCQ?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/opinion.svg" />
+- [互联网公司架构](https://github.com/davideuler/architecture.of.internet-product?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=opinion) <img valign="top" width="auto" height="20" src="./assets/github.svg" />
 
 ## 课外读物
-- 这些书在编程圈口碑超好，豆瓣评分9.0以上 [上篇](https://mp.weixin.qq.com/s/aXQNK5UUh27LRbvel0brfg?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=book) / [下篇](https://mp.weixin.qq.com/s/298e4UXPR7PO1jux2gJsQA?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=book) <img valign="top" width="auto" height="20" src="./assets/book.svg" />
-- [程序员如何应对失眠](https://zhuanlan.zhihu.com/p/36541570?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tips) <img valign="top" width="auto" height="20" src="./assets/tips.svg" />
-- [《React in patterns》中文版来了](http://sangka-z.com/react-in-patterns-cn/chapter-2/) <img valign="top" width="auto" height="20" src="./assets/book.svg" />
+- 这些书在编程圈口碑超好，豆瓣评分9.0以上 [上篇](https://mp.weixin.qq.com/s/aXQNK5UUh27LRbvel0brfg?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=github) / [下篇](https://mp.weixin.qq.com/s/298e4UXPR7PO1jux2gJsQA?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=github) <img valign="top" width="auto" height="20" src="./assets/book.svg" />
+- [程序员如何应对失眠](https://zhuanlan.zhihu.com/p/36541570?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=book) <img valign="top" width="auto" height="20" src="./assets/tips.svg" />
 
 -- EOF --
