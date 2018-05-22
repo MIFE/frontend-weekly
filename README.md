@@ -1,27 +1,22 @@
-# 前端周刊 第15期（20180511）
+# 前端周刊 第16期（20180521）
 
 ## 新鲜事
-- JavaScript新基本类型——BigInt，[支持Chrome 67+](https://developers.google.com/web/updates/2018/05/bigint?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=news)，用于大数运算，[目前V8引擎也加入了](https://v8project.blogspot.jp/2018/05/bigint.html?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2018-05-08&utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=news) <img valign="top" width="auto" height="20" src="./assets/news.svg" />
+- [iOS爆出新漏洞，10%应用恐受影响](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247488904&idx=1&sn=6ae15c51cd2ffc01f01a8fb0e6a431be&chksm=f951a0cbce2629ddc1d9a6a3f49ead888876ebfa18ea0c5dbbe3948bc424c1d93c3d15959e2f#rd&utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=news) <img valign="top" width="auto" height="20" src="./assets/news.svg" />
+- [Guess.js：Google的数据驱动改进前端体验的工具库](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247488898&idx=1&sn=9f90c0572da436aa7494f545e4d6cfd5&chksm=f951a0c1ce2629d72eef297afb92a9517991fa4ebe6e86491747c65d6a5fb988ae02ac4e8155#rd&utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=news) <img valign="top" width="auto" height="20" src="./assets/news.svg" />
 
 ## 前端提高
-- [从零开始手把手教你实现一个Virtual DOM](https://mp.weixin.qq.com/s/viBtv7KSD70qrlAhUMsjDA?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
-- [如何处理 JavaScript 内存泄露](https://mp.weixin.qq.com/s/Cup4F6TMyyw4jB87yrtkRQ?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tips) <img valign="top" width="auto" height="20" src="./assets/tips.svg" />
-- [使用 Web3 和 Vue.js 来创建你的第一个以太坊 dAPP（一）](https://mp.weixin.qq.com/s/pSR_U-hDApfXWoMGKX5ftg?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
-- [纯 HTML / CSS 绘制18世纪的油画风格](https://github.com/cyanharlow/purecss-francine?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=demo) <img valign="top" width="auto" height="20" src="./assets/demo.svg" />
-- [如何写出更好的 React 代码？](https://juejin.im/post/5ae975d26fb9a07aa92588b7?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
-- [react-redux讲解](https://juejin.im/post/5af00705f265da0ba60fb844?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
-- [更优雅的使用 Git](https://juejin.im/post/5af152c1518825673e359539?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
-- [Understanding Scope in JavaScript](https://scotch.io/tutorials/understanding-scope-in-javascript?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
-- [《React in patterns》中文版来了](http://sangka-z.com/react-in-patterns-cn/chapter-2/) <img valign="top" width="auto" height="20" src="./assets/book.svg" />
+- [React应用架构设计](https://mp.weixin.qq.com/s/G3lQ1yo2CL4Ce92VY_m0xg?scene=25#wechat_redirect&utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
+- [如何阅读大型前端开源项目的源码](https://juejin.im/post/5afe3735518825426539afce?utm_medium=fe&utm_source=weixinqun&from=timeline&utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=opinion) <img valign="top" width="auto" height="20" src="./assets/opinion.svg" />
+- [基于node.js平台的脚手架开发经历](https://mp.weixin.qq.com/s/MvP3GelJzbnY6ct-5u9bZA?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
+- [ES6之路之模块详解](https://mp.weixin.qq.com/s/2ViqE4U5beZcKgIHVimuqg?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
+- [Understanding Proxy, the ES6 Feature](https://www.atyantik.com/proxy-javascript-es6-feature/?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
+- [关于 cdn、回源等问题一网打尽](https://juejin.im/post/5af46498f265da0b8d41f6a3?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
 
 ## 值得关注
-
-- GitHub 开源指南系列之一——如何参与开源？[上篇](https://mp.weixin.qq.com/s/2iyZlUZQ7RTNXGJoE-0Gqg?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=book) / [下篇](https://mp.weixin.qq.com/s/IF4TRYCVhFEtV_1CDv8_3w?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=book) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
-- [前端工程师的技术进阶点在哪里?](https://mp.weixin.qq.com/s/-CLEXb_-xkm43dqKSJbFCQ?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/opinion.svg" />
-- [互联网公司架构](https://github.com/davideuler/architecture.of.internet-product?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=opinion) <img valign="top" width="auto" height="20" src="./assets/github.svg" />
+- [React Native DOM: An Experimental Port of React Native to the Web](https://github.com/vincentriemer/react-native-dom?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=github) <img valign="top" width="auto" height="20" src="./assets/github.svg" />  <img valign="top" width="auto" height="20" src="./assets/tools.svg" />
+- [Signale: A Highly Configurable Console Logger](https://github.com/klauscfhq/signale?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tools) <img valign="top" width="auto" height="20" src="./assets/github.svg" />  <img valign="top" width="auto" height="20" src="./assets/tools.svg" />
 
 ## 课外读物
-- 这些书在编程圈口碑超好，豆瓣评分9.0以上 [上篇](https://mp.weixin.qq.com/s/aXQNK5UUh27LRbvel0brfg?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=github) / [下篇](https://mp.weixin.qq.com/s/298e4UXPR7PO1jux2gJsQA?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=github) <img valign="top" width="auto" height="20" src="./assets/book.svg" />
-- [程序员如何应对失眠](https://zhuanlan.zhihu.com/p/36541570?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=book) <img valign="top" width="auto" height="20" src="./assets/tips.svg" />
+- [这30本书，让你成为一个很厉害的人！](https://www.toutiao.com/a6556732144700359176/?tt_from=weixin&utm_campaign=client_share&timestamp=1526660467&app=news_article&utm_source=weixin&iid=32667019577&utm_medium=toutiao_android&wxshare_count=1&utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=github) <img valign="top" width="auto" height="20" src="./assets/book.svg" />
 
 -- EOF --
