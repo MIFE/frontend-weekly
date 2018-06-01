@@ -1,22 +1,26 @@
-# 前端周刊 第16期（20180521）
+# 前端周刊 第17期（20180528）
+
+- [Build the future of the web with modern JavaScript (Google I/O ’18)](https://www.youtube.com/watch?v=mIWCLOftfRw&list=PLNYkxOF6rcIC4NQeXpdAy0RbOACI66Hvf&utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2018-05-22&utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=video) <img valign="top" width="auto" height="20" src="./assets/video.svg" />
+- [一个程序员的成长之路 - 剖析别人，总结自己](https://mp.weixin.qq.com/s/zWPjfHiYxx0HH9lE99Yijw?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=demo) <img valign="top" width="auto" height="20" src="./assets/demo.svg" />
+- [[译] 新的 CSS 特性正在改变网页设计](https://juejin.im/post/5b0cae8c6fb9a009de14c833?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=opinion) <img valign="top" width="auto" height="20" src="./assets/opinion.svg" />
 
 ## 新鲜事
-- [iOS爆出新漏洞，10%应用恐受影响](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247488904&idx=1&sn=6ae15c51cd2ffc01f01a8fb0e6a431be&chksm=f951a0cbce2629ddc1d9a6a3f49ead888876ebfa18ea0c5dbbe3948bc424c1d93c3d15959e2f#rd&utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=news) <img valign="top" width="auto" height="20" src="./assets/news.svg" />
-- [Guess.js：Google的数据驱动改进前端体验的工具库](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247488898&idx=1&sn=9f90c0572da436aa7494f545e4d6cfd5&chksm=f951a0c1ce2629d72eef297afb92a9517991fa4ebe6e86491747c65d6a5fb988ae02ac4e8155#rd&utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=news) <img valign="top" width="auto" height="20" src="./assets/news.svg" />
+- [Node之父ry发布新项目deno：下一代Node](https://mp.weixin.qq.com/s/1LcO3EqGV2iRlZ1aIrQeqw?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=news) <img valign="top" width="auto" height="20" src="./assets/news.svg" />
 
 ## 前端提高
-- [React应用架构设计](https://mp.weixin.qq.com/s/G3lQ1yo2CL4Ce92VY_m0xg?scene=25#wechat_redirect&utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
-- [如何阅读大型前端开源项目的源码](https://juejin.im/post/5afe3735518825426539afce?utm_medium=fe&utm_source=weixinqun&from=timeline&utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=opinion) <img valign="top" width="auto" height="20" src="./assets/opinion.svg" />
-- [基于node.js平台的脚手架开发经历](https://mp.weixin.qq.com/s/MvP3GelJzbnY6ct-5u9bZA?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
-- [ES6之路之模块详解](https://mp.weixin.qq.com/s/2ViqE4U5beZcKgIHVimuqg?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
-- [Understanding Proxy, the ES6 Feature](https://www.atyantik.com/proxy-javascript-es6-feature/?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
-- [关于 cdn、回源等问题一网打尽](https://juejin.im/post/5af46498f265da0b8d41f6a3?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
+- [Web 框架的架构模式探讨](http://web.jobbole.com/94577/) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
+- [认识 V8 引擎](https://zhuanlan.zhihu.com/p/27628685?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
+- [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
 
 ## 值得关注
-- [React Native DOM: An Experimental Port of React Native to the Web](https://github.com/vincentriemer/react-native-dom?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=github) <img valign="top" width="auto" height="20" src="./assets/github.svg" />  <img valign="top" width="auto" height="20" src="./assets/tools.svg" />
-- [Signale: A Highly Configurable Console Logger](https://github.com/klauscfhq/signale?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tools) <img valign="top" width="auto" height="20" src="./assets/github.svg" />  <img valign="top" width="auto" height="20" src="./assets/tools.svg" />
+
+- [给 Web 开发人员推荐的文档生成工具](https://mp.weixin.qq.com/s/nPx81RgsBczboNT9__d3Vw?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tools.svg" />
+- [just-launch——在任何平台启动浏览器](https://github.com/juliangruber/just-launch?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tools) <img valign="top" width="auto" height="20" src="./assets/github.svg" />
+- [Winds——A Beautiful Open Source RSS & Podcast App](https://github.com/getstream/winds?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=github) <img valign="top" width="auto" height="20" src="./assets/github.svg" />
+- [CSS clip-path maker](https://bennettfeely.com/clippy/?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=github) <img valign="top" width="auto" height="20" src="./assets/tools.svg" />
 
 ## 课外读物
-- [这30本书，让你成为一个很厉害的人！](https://www.toutiao.com/a6556732144700359176/?tt_from=weixin&utm_campaign=client_share&timestamp=1526660467&app=news_article&utm_source=weixin&iid=32667019577&utm_medium=toutiao_android&wxshare_count=1&utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=github) <img valign="top" width="auto" height="20" src="./assets/book.svg" />
+
+- [在用 Sketch 和 iconfont？试试 Kitchen 吧！](https://zhuanlan.zhihu.com/p/36657030?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tools) <img valign="top" width="auto" height="20" src="./assets/tips.svg" />
 
 -- EOF --
