@@ -1,28 +1,28 @@
-# 前端周刊 第21期（20180827）
+# 前端周刊 第22期（20180903）
 
 ## 推荐
 
-- [漫谈前端性能 突破 React 应用瓶颈](https://segmentfault.com/a/1190000016008108?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=opinion) <img valign="top" width="auto" height="20" src="./assets/opinion.svg" />
-- [我们用Flutter重写了一个React Native应用](https://mp.weixin.qq.com/s/OjO0swbDTyd6fPwxaN_gGQ?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
-- [第四届FEDAY的PPT已全部更新](https://mp.weixin.qq.com/s/qDpi47whu8-8MlgL5dhKMA?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=news) <img valign="top" width="auto" height="20" src="./assets/news.svg" />
+- [Babel是如何读懂JS代码的](https://zhuanlan.zhihu.com/p/27289600?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=demo) <img valign="top" width="auto" height="20" src="./assets/demo.svg" />
+- [前端性能清单](https://github.com/JohnsenZhou/Front-End-Performance-Checklist?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=github)  <img valign="top" width="auto" height="20" src="./assets/github.svg" />
 
 ## 新鲜事
 
-- [Well-Controlled Scrolling with CSS Scroll Snap](https://developers.google.com/web/updates/2018/07/css-scroll-snap?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=news)：CSS 原生的轮播实现 <img valign="top" width="auto" height="20" src="./assets/news.svg" />
+- [Babel 7.0正式发布，支持TypeScript，JSX Fragment](https://mp.weixin.qq.com/s/P8SUIQB5nUGc4A_BzYCMMA?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=news) <img valign="top" width="auto" height="20" src="./assets/news.svg" />
+- [React Fire：React DOM 的改造计划，使其更现代化](https://mp.weixin.qq.com/s/sGBd0ql50VleJILxxjQ4Zg?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=news) <img valign="top" width="auto" height="20" src="./assets/news.svg" />
 
 ## 前端提高
 
-- [函数柯里化（Currying）小实践](https://segmentfault.com/a/1190000015957944?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
-- [CSS Logical Properties and Values in Chromium and WebKit](https://blogs.igalia.com/mrego/2018/08/08/css-logical-properties-and-values-in-chromium/?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=opinion)：CSS 逻辑属性 <img valign="top" width="auto" height="20" src="./assets/opinion.svg" />
-- [React 实践心得：react-redux 之 connect 方法详解](http://taobaofed.org/blog/2016/08/18/react-redux-connect/) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
+- [闲鱼基于Flutter的移动端跨平台应用实践](https://mp.weixin.qq.com/s/RiWzt4WTrCVX__AO6mNkVQ?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
+- [React v16.3之后的组件生命周期函数](https://zhuanlan.zhihu.com/p/38030418?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
 
 ## 值得关注
 
-- [Pure CSS Moustached Nanny](https://codepen.io/miocene/pen/mjLPVp?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial)：心累的 CSS 动画 <img valign="top" width="auto" height="20" src="./assets/demo.svg" />
+- [x86虚拟化](https://github.com/copy/v86?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=github)——在浏览器和Node中运行，仓库中有一些demo可以看到，在浏览器中模拟运行操作系统 <img valign="top" width="auto" height="20" src="./assets/github.svg" />
+- [wexond](https://github.com/wexond/wexond?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial)——用Electron和React构建的web浏览器 <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
+- [size-plugin](https://github.com/GoogleChromeLabs/size-plugin?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=github)——打印webpack打包文件的gzip大小以及自上次构建以来的更改 <img valign="top" width="auto" height="20" src="./assets/github.svg" />
 
 ## 课外读物
 
-- [What I learned by building my own VS Code extension](https://css-tricks.com/what-i-learned-by-building-my-own-vs-code-extension/?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=demo) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
-- [Build a Health Tracking App with React, GraphQL, and User Authentication](https://developer.okta.com/blog/2018/07/11/build-react-graphql-api-user-authentication?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial)：使用 React、GraphQL 打造健康追踪 App <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
+- [程序猿黑话集锦了解一下?🤣](https://mp.weixin.qq.com/s/pYhIo8Dp4g_aIcamSNPPEg?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=opinion)  <img valign="top" width="auto" height="20" src="./assets/opinion.svg" />
 
 -- EOF --
