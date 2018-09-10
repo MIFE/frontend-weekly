@@ -1,28 +1,27 @@
-# 前端周刊 第22期（20180903）
+# 前端周刊 第23期（20180910）
 
 ## 推荐
 
-- [Babel是如何读懂JS代码的](https://zhuanlan.zhihu.com/p/27289600?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=demo) <img valign="top" width="auto" height="20" src="./assets/demo.svg" />
-- [前端性能清单](https://github.com/JohnsenZhou/Front-End-Performance-Checklist?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=github)  <img valign="top" width="auto" height="20" src="./assets/github.svg" />
+- [深入理解 JavaScriptCore](https://mp.weixin.qq.com/s/FwLL1CukwkNASlZfuIhlRA?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
+- [让你的Webpack起飞—考拉会员后台Webpack优化实战](https://zhuanlan.zhihu.com/p/42465502?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
 
 ## 新鲜事
 
-- [Babel 7.0正式发布，支持TypeScript，JSX Fragment](https://mp.weixin.qq.com/s/P8SUIQB5nUGc4A_BzYCMMA?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=news) <img valign="top" width="auto" height="20" src="./assets/news.svg" />
-- [React Fire：React DOM 的改造计划，使其更现代化](https://mp.weixin.qq.com/s/sGBd0ql50VleJILxxjQ4Zg?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=news) <img valign="top" width="auto" height="20" src="./assets/news.svg" />
+- [10 岁了！Chrome 69 发布，界面大翻新](https://mp.weixin.qq.com/s/9qDAlbXPXLZhaAn6iYf5gQ?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=news) <img valign="top" width="auto" height="20" src="./assets/news.svg" />
+- [Array.prototype.sort is now stable in @v8js v7.0 / Chrome 70! 🎉](https://twitter.com/mathias/status/1036626116654637057?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=news) <img valign="top" width="auto" height="20" src="./assets/news.svg" />
+- [微软开源Sketch2Code，草图秒变代码](https://juejin.im/entry/5b90c6b85188255c9d55f213?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=news) <img valign="top" width="auto" height="20" src="./assets/news.svg" />
+- [React 16.5.0低调发布，重点涉及React DOM](https://mp.weixin.qq.com/s/vlCCQDM2_84Sx5Nc4vJhxg?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=news) <img valign="top" width="auto" height="20" src="./assets/news.svg" />
 
 ## 前端提高
 
-- [闲鱼基于Flutter的移动端跨平台应用实践](https://mp.weixin.qq.com/s/RiWzt4WTrCVX__AO6mNkVQ?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
-- [React v16.3之后的组件生命周期函数](https://zhuanlan.zhihu.com/p/38030418?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
+- [借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
 
 ## 值得关注
 
-- [x86虚拟化](https://github.com/copy/v86?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=github)——在浏览器和Node中运行，仓库中有一些demo可以看到，在浏览器中模拟运行操作系统 <img valign="top" width="auto" height="20" src="./assets/github.svg" />
-- [wexond](https://github.com/wexond/wexond?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial)——用Electron和React构建的web浏览器 <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
-- [size-plugin](https://github.com/GoogleChromeLabs/size-plugin?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=github)——打印webpack打包文件的gzip大小以及自上次构建以来的更改 <img valign="top" width="auto" height="20" src="./assets/github.svg" />
+- [Dan Abramov解释React“时间切片”对预渲染的帮助](https://github.com/oliviertassinari/react-swipeable-views/issues/453#issuecomment-417939459?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
 
 ## 课外读物
 
-- [程序猿黑话集锦了解一下?🤣](https://mp.weixin.qq.com/s/pYhIo8Dp4g_aIcamSNPPEg?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=opinion)  <img valign="top" width="auto" height="20" src="./assets/opinion.svg" />
+- [带你了解什么是工程师和工程师的影响力](https://mp.weixin.qq.com/s/w1dg_V5nVbKbq_TfN933sw?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=opinion) <img valign="top" width="auto" height="20" src="./assets/opinion.svg" />
 
 -- EOF --
