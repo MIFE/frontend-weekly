@@ -1,28 +1,26 @@
-# 前端周刊 第25期（20180925）
+# 前端周刊 第26期（20181008）
 
 ## 推荐
 
-- [React 官方发布性能分析插件Profiler](https://mp.weixin.qq.com/s/k-icCIEOHkGmV-cBJ0HUGQ?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=news) <img valign="top" width="auto" height="20" src="./assets/news.svg" />
-- [Google图解：Chrome 快是有原因的，科普浏览器架构！](https://mp.weixin.qq.com/s/TPqQtkkj0KcQhZJm-sXEuw?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
-- [掘金开发者大会](http://conf.juejin.im/)PPT和视频已经上传 <img valign="top" width="auto" height="20" src="./assets/video.svg" />
+- [彻底搞懂HTTPS的加密机制](https://mp.weixin.qq.com/s/0KhB6xxNlFz7UngBYUn3Tw?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
+- [深入理解 ES Modules (手绘示例)](https://mp.weixin.qq.com/s/el4T4LqH9WlSMu4z9F2J8A?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
+- [记忆化技术介绍——使用闭包提升你的 React 性能](https://zhuanlan.zhihu.com/p/37913276?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
 
 ## 新鲜事
 
-- [JavaScript 2018 中即将迎来的新功能](https://mp.weixin.qq.com/s/aBN9pKHbIXHpVLP-SMayZw?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=video) <img valign="top" width="auto" height="20" src="./assets/news.svg" />
-- [[译]Flutter 发布预览版2.0 : 完美适配 iOS丨Google 开发者大会2018](https://juejin.im/post/5ba3133b5188255c7663f485?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=news) <img valign="top" width="auto" height="20" src="./assets/news.svg" />
-- [React Fiber 架构学习](https://mp.weixin.qq.com/s/HQ3CKcJGHUf4BioqHalCqA?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=news) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
+- [Next.js 7.0正式发布：重新编译速度提高42％，支持WebAssembly](https://mp.weixin.qq.com/s/eImQhwn-zP6hT2EmnWRcmg?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=news) <img valign="top" width="auto" height="20" src="./assets/news.svg" />
 
 ## 前端提高
 
-- [React16新特性](https://mp.weixin.qq.com/s/DTJTXQhGXW7HZpaCy9rgIg?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/opinion.svg" />
+- [盘点 React 16.0 ~ 16.5 主要更新及其应用](https://mp.weixin.qq.com/s/JPQvhLMpqQIl-GhWIxNtsA?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
 
 ## 值得关注
 
-- [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github&utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=opinion)——Github❤️Vscode
+- [重磅！尤雨溪发布Vue 3.0开发路线](https://mp.weixin.qq.com/s/k6OhMNrpagtTmbhkW-tmZg?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=news)<img valign="top" width="auto" height="20" src="./assets/news.svg" />
+- [Create React App 2.0发布，集成Babel 7, Sass等](https://mp.weixin.qq.com/s/MJCt3siWPbaHyDAdwRGGPA?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=news)<img valign="top" width="auto" height="20" src="./assets/news.svg" />
 
 ## 课外读物
 
-- [增强 Vim 编辑器，提高编辑效率 | Linux 中国](https://mp.weixin.qq.com/s/DdjEHmJ3x80T-oIXxwfP2w?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=tutorial) <img valign="top" width="auto" height="20" src="./assets/tutorial.svg" />
-- [使用 React 一年后，我学到的最重要经验](https://mp.weixin.qq.com/s/h7xg6M3M6a3TZcS56i5VbA?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=opinion) <img valign="top" width="auto" height="20" src="./assets/opinion.svg" />
+- [用户名“admin”、密码“123456”，乌克兰军方系统安全问题被曝光😂😂😂](https://mp.weixin.qq.com/s/mMzbAc5JST4SNdRi1wEqig?utm_source=mife&utm_medium=article&utm_campaign=mifeweekly&utm_term=news) <img valign="top" width="auto" height="20" src="./assets/news.svg" />
 
 -- EOF --
